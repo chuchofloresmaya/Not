@@ -1,0 +1,14 @@
+        .fondo{background: blue;}
+        .borde{border: .1px #000 solid; height: 45px; align-content: center;}
+        .color1{background: #eeeeee}
+        .color2{background: #fcc314}
+        .color3{background: #94ac3c}
+        .color4{background: #295ba7; height: 500px;}
+        .color5{background: #F8E8E4}
+
+        .redondeado {border-radius: 5px; margin: 1.5%}
+        .confondo {background-color: #def;}
+        .contorno {border-width: 2px; border-style: dashed; border-color: #1B1919;}
+
+        .contblanco {border-width: 2px; border-color: white;}
+
